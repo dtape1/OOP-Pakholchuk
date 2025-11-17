@@ -45,11 +45,7 @@
 
 ## Приклад запуску
 
-```
-
-![output](./media/output.png)
-
-```
+![output](media/output.png)
 
 ---
 
