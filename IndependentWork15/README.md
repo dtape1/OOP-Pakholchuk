@@ -145,7 +145,6 @@ public class SqlServerDatabaseProvider : IDatabaseProvider
 
 Щоб додати нову БД, достатньо створити нову реалізацію інтерфейсу.
 
----
 
  Сценарій: Логування
 
@@ -161,7 +160,6 @@ public interface ILogger
 
 EF Core працює з інтерфейсом, а не з конкретною реалізацією.
 
----
 
  Сценарій: Стратегії міграцій
 
@@ -175,7 +173,6 @@ public interface IMigrationCommandExecutor
 }
 ```
 
----
 
  3.2. Приклади порушення OCP
 
@@ -201,7 +198,6 @@ switch (operationType)
 
 Кожне нове значення змушує редагувати існуючий код, що порушує OCP.
 
----
 
  Сценарій: Форматування SQL
 
