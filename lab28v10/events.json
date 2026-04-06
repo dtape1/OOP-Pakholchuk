@@ -1,0 +1,45 @@
+[
+  {
+    "Id": 1,
+    "Title": "Tech Conference",
+    "Organizer": {
+      "Id": 1,
+      "Name": "Tech Corp"
+    },
+    "Location": {
+      "City": "Kyiv",
+      "Address": "Main Street 1"
+    },
+    "Participants": [
+      {
+        "Id": 1,
+        "Name": "Ivan",
+        "Email": "ivan@gmail.com"
+      },
+      {
+        "Id": 2,
+        "Name": "Olena",
+        "Email": "olena@gmail.com"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Title": "Music Festival",
+    "Organizer": {
+      "Id": 2,
+      "Name": "Music Group"
+    },
+    "Location": {
+      "City": "Lviv",
+      "Address": "Center Square 5"
+    },
+    "Participants": [
+      {
+        "Id": 3,
+        "Name": "Andrii",
+        "Email": "andrii@gmail.com"
+      }
+    ]
+  }
+]
